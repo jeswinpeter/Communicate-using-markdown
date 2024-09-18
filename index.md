@@ -5,6 +5,7 @@
 ![Minions funny image](clip-funny-minions-25.jpg)
 
 ### Adding a code block
-''' java
-System.out.println("This is a code block inside a Markdown");
-'''
+```python
+for i in range(5):
+  prtint("Nice")
+```
