@@ -10,6 +10,6 @@ for i in range(5):
   prtint("Nice")
 ```
 #### Task List
-- [ ] Learn to use Markdown
+- [x] Learn to use Markdown
 - [ ] Apply in other Repos
 - [x] Have fun
